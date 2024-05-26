@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a7513344.css",
+    "main.js": "/portfolio/static/js/main.8c91e613.js",
+    "static/js/453.298f5782.chunk.js": "/portfolio/static/js/453.298f5782.chunk.js",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.fefe4c641023568089d4.pdf",
+    "static/media/hero_img.png": "/portfolio/static/media/hero_img.29e5e17aaed9cc29c997.png",
+    "static/media/front_littlelemon.jpg": "/portfolio/static/media/front_littlelemon.54e74cfa9a4c91476780.jpg",
+    "static/media/ems.jpg": "/portfolio/static/media/ems.a2085ce74b3cd4a76e2a.jpg",
+    "static/media/back_littlelemon.JPG": "/portfolio/static/media/back_littlelemon.7aa489e5627101844d55.JPG",
+    "static/media/conferences.jpg": "/portfolio/static/media/conferences.3e27d14f64665c47990b.jpg",
+    "static/media/back.jpg": "/portfolio/static/media/back.7fac322c93b1d2581167.jpg",
+    "static/media/front.jpg": "/portfolio/static/media/front.0c9160533206e5fb58fa.jpg",
+    "static/media/mysql.svg": "/portfolio/static/media/mysql.c9286640a470004f40f8.svg",
+    "static/media/react-js.svg": "/portfolio/static/media/react-js.9e9c78facb4ac0be2d28.svg",
+    "static/media/python.svg": "/portfolio/static/media/python.34ed02aa0d1dcb192508.svg",
+    "static/media/django.svg": "/portfolio/static/media/django.0ddee07fb204dea1fdbe.svg",
+    "static/media/c.svg": "/portfolio/static/media/c.f00d9334f1e6c0da4960.svg",
+    "static/media/java.svg": "/portfolio/static/media/java.66e2b4ef777ab6d2341d.svg",
+    "static/media/php.svg": "/portfolio/static/media/php.1940d3cac51ecb1a3021.svg",
+    "static/media/javascript.svg": "/portfolio/static/media/javascript.3ec2c0d134ece9f5ac7b.svg",
+    "static/media/linux.svg": "/portfolio/static/media/linux.19f878c82e81291af1e0.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/git.svg": "/portfolio/static/media/git.43d387b77657117c0e40.svg",
+    "static/media/html.svg": "/portfolio/static/media/html.8664168d5bc90b1a2439.svg",
+    "static/media/css.svg": "/portfolio/static/media/css.3ec320225ef851ed26cf.svg",
+    "main.a7513344.css.map": "/portfolio/static/css/main.a7513344.css.map",
+    "main.8c91e613.js.map": "/portfolio/static/js/main.8c91e613.js.map",
+    "453.298f5782.chunk.js.map": "/portfolio/static/js/453.298f5782.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7513344.css",
+    "static/js/main.8c91e613.js"
+  ]
+}
