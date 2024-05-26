@@ -1,0 +1,67 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "maco.jpg",
+        "title": "Medical Awareness Camp Out Reach (MACO)",
+        "description": "As an IT Technical Support specialist, my role is to refurbish and repair computers destined for donation to primary schools. With precision and care, I meticulously diagnose and troubleshoot issues, ensuring each device is restored to optimal functionality. Whether it's replacing hardware components or reinstalling software, I work diligently to breathe new life into these machines. My dedication to excellence extends beyond technical expertise; I understand the impact these computers will have on students' education, motivating me to deliver nothing short of the best.",
+        "link": "https://www.maco.my"
+      },
+      {
+        "id": "2",
+        "src": "tigaky.jpg",
+        "title": "TigaKY Sdn. Bhd.",
+        "description": "During my internship, I played a pivotal role in configuring Proxmox on Debian servers, overseeing the deployment of virtual machines, and optimizing them for production. Additionally, I collaborated on frontend projects, utilizing React JS and Bootstrap to design intuitive web interfaces for request management. Furthermore, I contributed to CCTV system setup, leveraging Ubuntu to install and tailor Shinobi, enhancing surveillance capabilities for our clients. These multifaceted tasks broadened my expertise in server administration, web development, and security infrastructure, shaping my professional growth in the tech sector.",
+        "link": "https://www.tigaky.com"
+      }
+    ],
+    "portfolio": [
+        {
+          "id": "1",
+          "src": "ems.jpg",
+          "title": "UCSI Event Management System",
+          "description": "This is a project on web development for an event management system using React and Bootstrap as the framework.",
+          "link": "https://github.com/SehChong/Event-Management"
+        },
+        {
+          "id": "2",
+          "src": "front_littlelemon.jpg",
+          "title": "Front-End LittleLemon",
+          "description": "This is a simple project conducted in the coursera for Meta Front-End Developer course. It mainly about using React and Bootstrap to develop a simple Food Booking Website called Little Lemon.",
+          "link": "https://github.com/SehChong/Front-End-Developer-Capstone"
+        },
+        {
+          "id": "3",
+          "src": "back_littlelemon.JPG",
+          "title": "Back-End LittleLemon",
+          "description": "This is a backend project completed during the Meta Back-End Developer course which use Django as the framework for the Little Lemon Website as there are browasble API to conduct CRUD and admin site to give authorities and view data.",
+          "link": "https://github.com/SehChong/LittleLemon"
+        }
+      ],
+      "certification": [
+        {
+          "id": "1",
+          "src": "front.jpg",
+          "description": "The Meta Front-End Developer Program on Coursera provides specialized training in front-end development, covering HTML, CSS, JavaScript, Bootstrap, and React.",
+          "org_name": "Coursera",
+          "course": "Meta Front-End Develepor",
+          "website": "https://www.coursera.org/professional-certificates/meta-front-end-developer?"
+        },
+        {
+          "id": "2",
+          "src": "back.jpg",
+          "description": "The Meta Back-End Developer Program on Coursera provides comprehensive training in back-end development, with a focus on mastering Django and API testing using tools like Insomnia.",
+          "org_name": "Coursera",
+          "course": "Meta Back-end Developer",
+          "website": "https://www.coursera.org/professional-certificates/meta-back-end-developer?"
+        },
+        {
+          "id": "3",
+          "src": "conferences.jpg",
+          "description": "At the ICAROB conference, it provided a platform for presenting my final year project on interpreting American Sign Language using OpenCV and MediaPipe.",
+          "org_name": "UCSI University",
+          "course": "Conferences on Artificial Life and Robotics (ICAROB)",
+          "website": "https://alife-robotics.co.jp"
+        }
+      ]
+}
