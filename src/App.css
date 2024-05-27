@@ -491,7 +491,7 @@ h2 {
   }
 
   .image-parent {
-    padding: 20px 100px; /* Adjust the gap between items on smaller screens */
+    padding: 20px 90px; /* Adjust the gap between items on smaller screens */
   }
 
   .tech-icon{
@@ -592,11 +592,18 @@ h2 {
 }
 
 @media screen and (max-width: 768px) {
+  .portfolio--container .sub--title{
+    margin-left: 20px;
+  }
+  .portfolio--heading{
+    margin-left: 20px;
+  }
   .portfolio--section {
     padding: 20px 15px; /* Adjust padding for smaller screens */
     gap: 20px; /* Reduce the gap between sections */
     max-width: calc(100% - 20px);
-    margin-left: 20px;
+    display: flex;
+    align-items: center;
   }
 
   .portfolio--section--container {
@@ -607,11 +614,10 @@ h2 {
 
   .portfolio--section--card {
     min-height: auto; /* Remove minimum height */
-    width: 90%; /* Adjust width to fit screen */
+    min-width: 270px; /* Adjust width to fit screen */
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
     box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.1); /* Adjust box shadow */
-    margin-left: 50px;
   }
 
   .portfolio--section--card--content {
@@ -633,7 +639,7 @@ h2 {
   .btn-github {
     font-size: 12px; /* Decrease font size */
     padding: 10px; /* Decrease padding */
-    margin: 40px 30px 0 0;
+    margin: 30px 20px 0 0;
   }
 
   .btn-github svg {
@@ -793,20 +799,21 @@ h2 {
 @media screen and (max-width: 768px) {
   .certification--section {
     display:flex;
-    padding: 20px 25px; /* Adjusted padding for better spacing on smaller screens */
+    padding: 10px; /* Adjusted padding for better spacing on smaller screens */
     gap: 20px; /* Adjusted gap between sections */
     max-width: calc(100% - 20px);
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
   }
 
   .certification--section--card {
-    max-width: calc(100% - 20px); /* Adjusted maximum width to fit smaller screens */
+    min-width: 270px; /* Adjusted maximum width to fit smaller screens */
     padding: 10px 15px;
     display: flex;
+    justify-content: center;
     flex-direction: column;
     align-items: flex-start;
-    gap: 30px;
+    gap: 20px;
     flex: 1 0 0
   }
 
@@ -824,7 +831,6 @@ h2 {
 
   .certification--section--card img {
     max-width: 100%; /* Ensure image fits within container */
-    height: auto;
     max-height: 200px; /* Set maximum height for image on smaller screens */
   }
 
@@ -838,6 +844,30 @@ h2 {
     padding: 25px 0; /* Adjusted padding for better spacing on smaller screens */
   }
 }
+/* @media screen and (max-width: 667px) {
+  .certification--section--card {
+    min-width: 300px;
+  }
+  .portfolio--section--card{
+    min-width: 300px;
+  }
+
+  .ferris-wheel-techs {
+    display: block;
+    position: absolute;
+    margin-left: auto;
+    top: 45%;
+  }
+
+  .image-parent {
+    padding: 20px 90px; 
+  }
+
+  .tech-icon{
+    width: 50px;
+    height: auto;
+  }
+} */
 /* Certification Ends */
 
 /* Modal Starts */
