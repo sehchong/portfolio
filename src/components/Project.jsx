@@ -35,7 +35,7 @@ export default function Project() {
               <img src={require(`../assets/img/${item.src}`)} alt="Placeholder" />
             </div>
             <div className="portfolio--section--card--content">
-              <div>
+              <div className="portfolio--section--card--content--top">
                 <h3 className="portfolio--section--title">{item.title}</h3><br/>
                 <p className="text-md">{item.description}</p>
               </div>

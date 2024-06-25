@@ -351,7 +351,7 @@ h2 {
   background: var(--bg-shade);
   box-sizing: border-box;
   transition: all 0.3s ease;
-  min-height: 650px;
+  min-height: 700px;
   min-width: 550px;
 }
 .skills--section--img {
@@ -571,6 +571,10 @@ h2 {
   align-items: flex-start;
   gap: 32px;
   align-self: stretch;
+  flex-grow: 1; /* Add this to make the content fill available space */
+}
+.portfolio--section--card--content--top {
+  flex-grow: 1; /* Add this to make the top content fill available space */
 }
 .portfolio--section--title {
   color: var(--heading-color);
@@ -753,7 +757,7 @@ h2 {
   border-radius: 8px;
   border: 1.33px solid #006b6a;
   min-height: 600px;
-  min-width: 350px;
+  min-width: 300px;
 }
 .certification--section--card img{
   display:flex;
